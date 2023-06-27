@@ -31,7 +31,7 @@ function PageTransitions() {
 
             const element = document.getElementById(id);
             element.classList.add("active");
-            console.log(element)
+            // console.log(element)
         }
     })
 
